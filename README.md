@@ -25,7 +25,7 @@ A plug-and-play training framework that makes LLM fine-tuning 30–50% more effi
 ### Currently Working On
 
 <div align="center">
-  <img src="https://tenor.com/en-GB/view/lol-what-4d-gif-20284708" width="180" alt="Blue Tesseract">
+  <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/tesseractor.gif" width="180" alt="Blue Tesseract">
 </div>
 
 New AI Architecture
