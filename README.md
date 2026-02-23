@@ -1,6 +1,6 @@
 <!-- Pixel Art Header -->
 <div align="center">
-  <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/ghost_animated.gif" width="180" alt="Pixel Ghost">
+  <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/ghost_animated.gif" width="200" alt="Pixel Ghost">
   <h1>ra2157218-boop</h1>
   <p><strong>17 y/o Independent AI Researcher</strong><br>
   Working on Artificial Intelligence beyond token prediction</p>
