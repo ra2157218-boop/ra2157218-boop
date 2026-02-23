@@ -26,7 +26,7 @@ A plug-and-play training framework that makes LLM fine-tuning 30–50% more effi
 
 <div align="center">
   <strong>Architecture Visualization</strong><br>
-  <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/tesseract.gif?raw=true" width="180" alt="Tesseract">
+  <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/tesseractor.gif?raw=true" width="180" alt="Tesseract">
 
   <br><br>
 
