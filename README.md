@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/YourGhostHere.gif" width="120" alt="Pixel Ghost">
   <h1>ra2157218-boop</h1>
   <p><strong>17 y/o Independent AI Researcher</strong><br>
-  Building beyond token prediction</p>
+  Working on Artificial Intelligence beyond token prediction</p>
 </div>
 
 ---
