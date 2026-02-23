@@ -11,13 +11,12 @@
 ### Currently Building
 
 **🧠 Artificial Neural Mesh (ANM) V0**  
-A modular multi-model cognitive architecture with 12 specialized domain experts and Web-of-Thought (WoT) reasoning.  
-Focused on interpretability, cross-domain thinking, and controlled self-expansion.
+A modular multi-model cognitive architecture with 12 specialized domain experts and Web-of-Thought (WoT) reasoning.
 
 → [GitHub](https://github.com/ra2157218-boop/Artificial-Neural-Mesh-V0) | [Paper (Zenodo)](https://zenodo.org/records/17664259)
 
 **⚡ GEKO (Gradient-Efficient Knowledge Optimization)**  
-A plug-and-play training framework that makes LLM fine-tuning 30–50% more efficient through intelligent sample selection.
+A plug-and-play training framework that makes LLM fine-tuning 30–50% more efficient.
 
 → [PyPI (gekolib)](https://pypi.org/project/gekolib/) | [GitHub](https://github.com/ra2157218-boop/geko) | [Research Paper (Zenodo)](https://zenodo.org/records/YOUR-GEKO-PAPER-DOI)
 
@@ -29,9 +28,7 @@ A plug-and-play training framework that makes LLM fine-tuning 30–50% more effi
   <img src="https://i.imgur.com/blue-tesseract.gif" width="180" alt="Blue Tesseract">
 </div>
 
-**Building a new AI Architecture**  
-A post-Transformer cognitive system designed from first principles.  
-Focused on true generalization, efficient memory, and internal reasoning.
+A new post-Transformer cognitive architecture.
 
 ---
 
