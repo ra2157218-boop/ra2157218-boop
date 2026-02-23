@@ -40,7 +40,7 @@ I've spent the last year reverse-engineering how the brain works to build AI sys
 ## 🔬 Published Work
 
 ### 🧠 Artificial Neural Mesh (ANM) V0
-> A modular multi-agent cognitive architecture featuring 12 specialized domain experts collaborating through **Web-of-Thought (WoT)** reasoning — built in 3 days, published on Zenodo with 450+ views.
+> A modular multi-agent cognitive architecture featuring 12 specialized domain experts collaborating through **Web-of-Thought (WoT)** reasoning.
 
 <a href="https://github.com/ra2157218-boop/Artificial-Neural-Mesh-V0">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20" />
@@ -75,8 +75,8 @@ I've spent the last year reverse-engineering how the brain works to build AI sys
 
 |  | Architecture | Model |
 |--|:--:|:--:|
-| **Name** | Tesseractor | Berry-Q |
-| **Preview** | <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/tesseractor.gif?raw=true" width="160" alt="Tesseractor" /> | <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/Blueberry.gif?raw=true" width="160" alt="Berry-Q" /> |
+| **Status** | In Development | In Training |
+| **Preview** | <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/tesseractor.gif?raw=true" width="160" alt="Architecture" /> | <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/Blueberry.gif?raw=true" width="160" alt="Model" /> |
 
 </div>
 
