@@ -18,7 +18,7 @@ A modular multi-model cognitive architecture with 12 specialized domain experts 
 **⚡ GEKO (Gradient-Efficient Knowledge Optimization)**  
 A plug-and-play training framework that makes LLM fine-tuning 30–50% more efficient.
 
-→ [PyPI (gekolib)](https://pypi.org/project/gekolib/) | [GitHub](https://github.com/ra2157218-boop/geko) | [Research Paper (Zenodo)](https://zenodo.org/records/YOUR-GEKO-PAPER-DOI)
+→ [PyPI (gekolib)](https://pypi.org/project/gekolib/) | [GitHub](https://github.com/ra2157218-boop/geko) | [Research Paper (Zenodo)](https://zenodo.org/records/18177743)
 
 ---
 
