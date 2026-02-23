@@ -25,10 +25,16 @@ A plug-and-play training framework that makes LLM fine-tuning 30–50% more effi
 ### Currently Working On
 
 <div align="center">
-  <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/tesseractor.gif?raw=true" width="240" alt="Blue Tesseract">
+  <strong>Architecture Visualization</strong><br>
+  <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/tesseract.gif?raw=true" width="180" alt="Tesseract">
+
   <br><br>
-  <strong>New AI Architecture</strong>
+
+  <strong>Model Visualization</strong><br>
+  <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/Blueberry.gif?raw=true" width="180" alt="Berry-Q0">
 </div>
+
+Working on a new AI architecture and LLM that has the potential to beat GPT-3.5 while staying very light.
 
 ---
 
