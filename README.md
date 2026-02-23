@@ -36,18 +36,18 @@ New AI Architecture
 
 <div align="center">
   <a href="https://x.com/SyedAbdurR2hman">
-    <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X">
+    <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=plastic&logo=x&logoColor=white" alt="Follow on X">
   </a>
   <a href="https://huggingface.co/Abd0r">
-    <img src="https://img.shields.io/badge/Follow%20on%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Follow on Hugging Face">
+    <img src="https://img.shields.io/badge/Follow%20on%20Hugging%20Face-FFD21E?style=plastic&logo=huggingface&logoColor=black" alt="Follow on Hugging Face">
   </a>
   <a href="mailto:ra2157218@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me">
+    <img src="https://img.shields.io/badge/Email%20Me-4285F4?style=plastic&logo=gmail&logoColor=white" alt="Email me">
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Made_with_Pure_Math-000000?style=for-the-badge&logo=mathworks&logoColor=white">
+  <img src="https://img.shields.io/badge/Made_with_Pure_Math-000000?style=plastic&logo=mathworks&logoColor=white">
 </div>
