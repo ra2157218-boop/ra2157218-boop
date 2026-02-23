@@ -91,12 +91,7 @@ A new architecture + LLM combo with the potential to **match GPT-3.5-level reaso
 ---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ra2157218-boop&theme=github_dark" alt="GitHub Activity" width="100%" />
-</div>
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ra2157218-boop&theme=github_dark" height="150" alt="Stats" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ra2157218-boop&theme=github_dark" height="150" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=ra2157218-boop&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
