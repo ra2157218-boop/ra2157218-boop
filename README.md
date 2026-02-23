@@ -28,7 +28,7 @@ A plug-and-play training framework that makes LLM fine-tuning 30–50% more effi
   <img src="https://i.imgur.com/blue-tesseract.gif" width="180" alt="Blue Tesseract">
 </div>
 
-A new post-Transformer cognitive architecture.
+New AI Architecture
 
 ---
 
