@@ -33,7 +33,7 @@ A plug-and-play training framework that makes LLM fine-tuning 30–50% more effi
 
 </div>
 
-Working on a new AI architecture and LLM that has the potential to beat GPT-3.5 while staying very light.
+Working on a new AI architecture and LM that has the potential to beat GPT-3.5 while staying very light.
 
 ---
 
