@@ -25,10 +25,10 @@ A plug-and-play training framework that makes LLM fine-tuning 30–50% more effi
 ### Currently Working On
 
 <div align="center">
-  <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/tesseractor.gif" width="180" alt="Blue Tesseract">
+  <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/tesseractor.gif?raw=true" width="240" alt="Blue Tesseract">
+  <br><br>
+  <strong>New AI Architecture</strong>
 </div>
-
-New AI Architecture
 
 ---
 
