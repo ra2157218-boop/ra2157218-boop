@@ -91,11 +91,5 @@ A new architecture + LLM combo with the potential to **match GPT-3.5-level reaso
 ---
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ra2157218-boop&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-
----
-
-<div align="center">
   <sub>Built from scratch · No lab · No shortcuts</sub>
 </div>
