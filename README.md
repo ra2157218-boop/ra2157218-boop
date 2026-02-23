@@ -91,5 +91,13 @@ A new architecture + LLM combo with the potential to **match GPT-3.5-level reaso
 ---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ra2157218-boop&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra2157218-boop&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
   <sub>Built from scratch · No lab · No shortcuts</sub>
 </div>
