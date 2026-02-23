@@ -23,6 +23,10 @@
   <a href="mailto:ra2157218@gmail.com">
     <img src="https://img.shields.io/badge/Email-4285F4?style=flat-square&logo=gmail&logoColor=white" height="22" alt="Email" />
   </a>
+  &nbsp;
+  <a href="https://orcid.org/0009-0004-6611-2918">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" height="22" alt="ORCID" />
+  </a>
 </div>
 
 <br/>
