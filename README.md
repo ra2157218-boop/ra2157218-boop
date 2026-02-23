@@ -23,6 +23,18 @@ A plug-and-play training framework that makes LLM fine-tuning 30–50% more effi
 
 ---
 
+### Currently Working On
+
+<div align="center">
+  <img src="https://i.imgur.com/blue-tesseract.gif" width="180" alt="Blue Tesseract">
+</div>
+
+**Building a new AI Architecture**  
+A post-Transformer cognitive system designed from first principles.  
+Focused on true generalization, efficient memory, and internal reasoning.
+
+---
+
 ### Connect
 
 - **X**: [@SyedAbdurR2hman](https://x.com/SyedAbdurR2hman)
