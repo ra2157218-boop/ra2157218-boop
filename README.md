@@ -97,7 +97,7 @@ I've spent the last year reverse-engineering how the brain works to build AI sys
 |  | Architecture | Model |
 |--|:--:|:--:|
 | **Status** | In Development | In Training |
-| **Preview** | <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/tesseractor.gif?raw=true" width="160" alt="Architecture" /> | <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/Blueberry.gif?raw=true" width="160" alt="Model" /> |
+| **Preview** | <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/Quasar.gif?raw=true" width="160" alt="Architecture" /> | <img src="https://github.com/ra2157218-boop/ra2157218-boop/blob/main/Blueberry.gif?raw=true" width="160" alt="Model" /> |
 
 </div>
 
