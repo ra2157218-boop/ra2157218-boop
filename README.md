@@ -77,6 +77,19 @@ I've spent the last year reverse-engineering how the brain works to build AI sys
 
 ---
 
+## 🔥 Just Dropped
+
+**GEKO v0.2.0** — Major update to the training framework.
+
+- Single forward pass replacing 3 — **2–3x faster**
+- Up to **80% compute savings** at scale
+- Smarter bucket logic, cleaner API, more robust training loop
+- Drop-in replacement for any existing training setup
+
+→ `pip install gekolib --upgrade`
+
+---
+
 ## 🚧 Currently Working On
 
 <div align="center">
