@@ -61,9 +61,9 @@ I've spent the last year reverse-engineering how the brain works to build AI sys
 ---
 
 ### ⚡ GEKO — Gradient-Efficient Knowledge Optimization
-> A plug-and-play training framework making LLM fine-tuning **30–50% more efficient**. Available on PyPI.
+> A plug-and-play fine-tuning framework that **skips samples the model already knows** — routing compute to hard samples and freezing mastered ones. Up to **80% compute savings** at scale.
 
-<a href="https://github.com/ra2157218-boop/geko">
+<a href="https://github.com/ra2157218-boop/GEKO">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="20" />
 </a>
 &nbsp;
@@ -79,12 +79,14 @@ I've spent the last year reverse-engineering how the brain works to build AI sys
 
 ## 🔥 Just Dropped
 
-**GEKO v0.2.0** — Major update to the training framework.
+**GEKO v0.3.0** — 8 efficiency features for cheap LLM fine-tuning.
 
-- Single forward pass replacing 3 — **2–3x faster**
-- Up to **80% compute savings** at scale
-- Smarter bucket logic, cleaner API, more robust training loop
-- Drop-in replacement for any existing training setup
+- **LoRA / PEFT** built-in — fine-tune 0.1% of parameters
+- **BF16 + gradient checkpointing** — ~4× memory reduction
+- **torch.compile** — 20–50% throughput boost
+- **Dynamic dataset pruning** — dataset shrinks as the model learns
+- **8-bit optimizer** — half the optimizer memory
+- Trained GPT-2 on OpenR1-Math-220k — **58% loss drop in 3 epochs**
 
 → `pip install gekolib --upgrade`
 
